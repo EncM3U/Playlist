@@ -1,0 +1,12 @@
+---
+title: Dolby Vision DEMO
+date: 2020-05-08 11:43:03
+tags:
+---
+
+---
+
+<!-- more -->
+<div style="position: relative; width: 100%; height: 100%; padding-bottom: 57%;">
+    <iframe src="https://dplayer.mochanbw.cn/?vidurl=https://cdn.jsdelivr.net/gh/MoChanBW/CDN@dolby-vision/index.m3u8" scrolling="no" allowfullscreen="true" style="position: absolute; width: 100%; height: 100%;margin:0;padding:0;border:0;"></iframe>
+</div>
